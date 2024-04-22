@@ -23,15 +23,17 @@ Open terminal and try execute some kali linux commands
 ### EXECUTION STEPS AND ITS OUTPUT:
 Find out the ip address of the attackers system
 #### OUTPUT:
-![ip-of-attacker](https://github.com/Manoj162004/Metasploit-for-reconnaissance/assets/120365042/3124bd5e-f8c7-49c8-843f-f798d3c2a6fc)
+![image](https://github.com/Bhargava-Shankar/Metasploit-for-reconnaissance/assets/85554376/9ae2cd8a-28a4-4130-9942-5fd09c13b553)
+
 
 Invoke msfconsole:
 
-![msfconsole](https://github.com/Manoj162004/Metasploit-for-reconnaissance/assets/120365042/ab8fc40d-0e55-40fb-aa28-a2567dffd231)
+![image](https://github.com/Bhargava-Shankar/Metasploit-for-reconnaissance/assets/85554376/2c206880-98e0-47d5-bc00-aedad28f69f5)
+
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
-![msf-info](https://github.com/Manoj162004/Metasploit-for-reconnaissance/assets/120365042/9418b63d-9976-49f0-b2f1-23f505936edf)
+![image](https://github.com/Bhargava-Shankar/Metasploit-for-reconnaissance/assets/85554376/7d64640b-d445-40f8-be11-af605779b05e)
 
 #### Port Scanning:
 Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000).
