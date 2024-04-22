@@ -1,4 +1,4 @@
-# Metasploit-for-reconnaissance
+# EX 6 Metasploit-for-reconnaissance
 ## Metasploit
 Metasploit for reconnaissance in pentesting
 
