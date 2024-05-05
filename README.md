@@ -1,6 +1,4 @@
-# EX 5 Metasploit-for-reconnaissance
-## Metasploit
-Metasploit for reconnaissance in pentesting
+# EX : 5 Metasploit for reconnaissance 
 
 ## AIM:
 
